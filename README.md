@@ -8,4 +8,4 @@ Eg: CORRECT_GUESSES / TOTAL_WORDS * 100 --> 78%
 
 
 **CorrectGuess:  10 out of total words**
-**Total Accuracy:  0.22 % **
+Total Accuracy:  0.22 % 
