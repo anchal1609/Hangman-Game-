@@ -2,7 +2,7 @@ Task 1 - Hangman
 
 Given a dictionary (words.txt), write a program that can play hangman by choosing a letter based on the current state of the board.  A board would initially have a series of blanks, each representing one letter in the word.  As letters are guessed, all spaces in the word that match the letter should be replaced with that letter.  Any letters that have no matches are put on a list of missed letters.  Once the list of missed letters reaches 6, the game is lost.
 
-
+sgsg
 State assumptions and trade-offs made.
 
 
@@ -12,8 +12,8 @@ Write a driver program that takes the word as input and shows the board after ea
 > ./hangman  hangman
 
 _ _ _ _ _ _ _  missed:
-
-
+fsggdg
+adzfzgfxgx
 guess: e
 
 _ _ _ _ _ _ _  missed: e
